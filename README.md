@@ -2,6 +2,8 @@
 
 Log Analyzer is a Java project that allows users to analyze and extract useful information from server logs. The project consists of three main classes: LogEntry, WebLogParser, and LogAnalyzer.
 
+This is a Coursera course assignment. Course: Java Programming: Arrays, Lists, and Structured Data https://www.coursera.org/learn/java-programming-arrays-lists-data?specialization=object-oriented-programming
+
 ## Features
 - Read and parse log files
 - Count unique IP addresses
